@@ -1,0 +1,41 @@
+14:53:50.070 [main] INFO  testcases.TC_001_Accountregistration -  **********starting TC_001_Accountregistration*************
+14:53:50.614 [main] INFO  testcases.TC_001_Accountregistration - clicking on my axxount link
+14:53:52.036 [main] INFO  testcases.TC_001_Accountregistration - clicking on register axxount link
+14:53:52.045 [main] INFO  testcases.TC_001_Accountregistration - providing customer data
+14:53:53.734 [main] INFO  testcases.TC_001_Accountregistration - clicking on continue button
+15:02:18.985 [main] INFO  testcases.TC_001_Accountregistration -  **********starting TC_001_Accountregistration*************
+15:02:19.826 [main] INFO  testcases.TC_001_Accountregistration - clicking on my axxount link
+15:02:23.355 [main] INFO  testcases.TC_001_Accountregistration - clicking on register axxount link
+15:02:23.382 [main] INFO  testcases.TC_001_Accountregistration - providing customer data
+15:02:25.515 [main] INFO  testcases.TC_001_Accountregistration - clicking on continue button
+15:08:50.275 [TestNG-tests-1] INFO  testcases.TC_001_Accountregistration -  **********starting TC_001_Accountregistration*************
+15:08:50.703 [TestNG-tests-2] INFO  testcases.TC_001_Accountregistration -  **********starting TC_001_Accountregistration*************
+15:08:51.651 [TestNG-tests-2] INFO  testcases.TC_001_Accountregistration - clicking on my axxount link
+15:08:52.032 [TestNG-tests-1] INFO  testcases.TC_001_Accountregistration - clicking on my axxount link
+15:08:54.193 [TestNG-tests-2] INFO  testcases.TC_001_Accountregistration - clicking on register axxount link
+15:08:54.238 [TestNG-tests-1] INFO  testcases.TC_001_Accountregistration - clicking on register axxount link
+15:08:54.320 [TestNG-tests-1] INFO  testcases.TC_001_Accountregistration - providing customer data
+15:08:54.320 [TestNG-tests-2] INFO  testcases.TC_001_Accountregistration - providing customer data
+15:08:56.575 [TestNG-tests-1] INFO  testcases.TC_001_Accountregistration - clicking on continue button
+15:08:56.688 [TestNG-tests-2] INFO  testcases.TC_001_Accountregistration - clicking on continue button
+15:52:35.087 [TestNG-tests-2] INFO  testcases.TC_001_Accountregistration -  **********starting TC_001_Accountregistration*************
+15:52:35.776 [TestNG-tests-2] INFO  testcases.TC_001_Accountregistration - clicking on my axxount link
+15:52:36.998 [TestNG-tests-1] INFO  testcases.TC_001_Accountregistration -  **********starting TC_001_Accountregistration*************
+15:52:37.264 [TestNG-tests-1] INFO  testcases.TC_001_Accountregistration - clicking on my axxount link
+15:52:40.080 [TestNG-tests-1] INFO  testcases.TC_001_Accountregistration - clicking on register axxount link
+15:52:40.091 [TestNG-tests-1] INFO  testcases.TC_001_Accountregistration - providing customer data
+15:52:41.461 [TestNG-tests-2] INFO  testcases.TC_001_Accountregistration - clicking on register axxount link
+15:52:41.464 [TestNG-tests-2] INFO  testcases.TC_001_Accountregistration - providing customer data
+15:52:41.802 [TestNG-tests-1] INFO  testcases.TC_001_Accountregistration - clicking on continue button
+15:52:42.855 [TestNG-tests-2] INFO  testcases.TC_001_Accountregistration - clicking on continue button
+08:22:51.994 [main] INFO  testcases.TC_001_Accountregistration -  **********starting TC_001_Accountregistration*************
+08:22:53.049 [main] INFO  testcases.TC_001_Accountregistration - clicking on my axxount link
+08:22:55.533 [main] INFO  testcases.TC_001_Accountregistration - clicking on register axxount link
+08:22:55.545 [main] INFO  testcases.TC_001_Accountregistration - providing customer data
+08:22:56.791 [main] INFO  testcases.TC_001_Accountregistration - clicking on continue button
+17:37:17.433 [main] INFO  testcases.TC_002_logintest - **************starting TC_002_logintest**********
+17:28:36.641 [main] INFO  testcases.TC_001_Accountregistration -  **********starting TC_001_Accountregistration*************
+17:28:37.654 [main] INFO  testcases.TC_001_Accountregistration - clicking on my account link
+17:28:51.891 [main] INFO  testcases.TC_001_Accountregistration - clicking on register account link
+17:28:51.926 [main] INFO  testcases.TC_001_Accountregistration - providing customer data
+17:28:53.750 [main] INFO  testcases.TC_001_Accountregistration - clicking on continue button
